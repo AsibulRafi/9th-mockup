@@ -41,12 +41,15 @@
       justify-content: center;
       margin: 10rem auto;
       max-width: 87.5rem;
+      @include breakpoint-down(large) {
+        padding: 0rem 3rem;
+      }
       @include breakpoint-down(medium) {
         flex-direction: column;
-        padding: 0rem 4rem;
+        padding: 0rem 2rem;
       }
       @include breakpoint-down(small) {
-        padding: 0rem 2rem;
+        padding: 0rem 1rem;
       }
       // mini
       .mini {

@@ -60,7 +60,7 @@ const Home = () => {
     };
   }, [index]);
   return (
-    <section>
+    <>
       {/* Hero Section */}
       <section className="hero">
         <div className="container hero__wrapper">
@@ -394,7 +394,7 @@ const Home = () => {
           </div>
         </div>
       </section>
-    </section>
+    </>
   );
 };
 

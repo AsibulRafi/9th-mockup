@@ -133,6 +133,15 @@
 .steps {
   &__wrapper {
     margin: 8rem 0rem;
+    @include breakpoint-down(large) {
+      padding: 0rem 3rem;
+    }
+    @include breakpoint-down(medium) {
+      padding: 0rem 2rem;
+    }
+    @include breakpoint-down(small) {
+      padding: 0rem 1rem;
+    }
   }
   &__heading {
     font-size: 4.2rem;
@@ -387,7 +396,16 @@
   background-position: center;
   height: 100%;
   width: 100%;
-  padding: 2rem 0rem;
+  padding: 10rem 3rem;
+  @include breakpoint-down(large) {
+    padding: 10rem 3rem;
+  }
+  @include breakpoint-down(medium) {
+    padding: 10rem 2rem;
+  }
+  @include breakpoint-down(small) {
+    padding: 10rem 1rem;
+  }
   &::before {
     content: "";
     position: absolute;
