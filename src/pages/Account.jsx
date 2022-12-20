@@ -344,7 +344,7 @@ const Account = () => {
         <div className="accounts__funding-btn container">
           <h4>
             In case you would like to ask anything related to putting money on
-            the Live Account, feel free to get in touch with a No Name 1
+            the Live Account, feel free to get in touch with a NovaTradin
             employee
           </h4>
           <button className="acf-btn">GET IN TOUCH</button>

@@ -23,15 +23,15 @@ const Trading = () => {
         <hr />
         <div className="trading__info-content">
           <p className="trading__info-text">
-            No Name 1 highest purpose is to turn its clients into successful
+            NovaTradin highest purpose is to turn its clients into successful
             traders and increase their success rates as much as possible. For
-            that purpose we give you the No Name 1 Online trader, which enables
+            that purpose we give you the NovaTradin Online trader, which enables
             you to be 100% involved in the trading process and adjust according
             to the market conditions, all the while letting you plan your
             trading activities to your preference.Utilize the full scope of the
             latest technological developments in the field by trading from any
             internet connectible device. Investing in Forex, Commodities and CFD
-            has never been easier thanks to the No Name 1 Online Trader.No Name
+            has never been easier thanks to the NovaTradin Online Trader.No Name
             1 grants you a gateway to all your trading needs with the online and
             mobile trading applications.
           </p>
@@ -47,7 +47,7 @@ const Trading = () => {
                 immediately.
               </p>
               <p>
-                The No Name 1 Online Trader present clients with the option to
+                The NovaTradin Online Trader present clients with the option to
                 choose from a number of languages, it features the latest
                 charts, fast operation of the trades, and best of all, it makes
                 everything easy. You have the ability to access to trader from a
@@ -58,15 +58,15 @@ const Trading = () => {
             </div>
           </div>
           <p className="trading__info-text">
-            No Name 1 highest purpose is to turn its clients into successful
+            NovaTradin highest purpose is to turn its clients into successful
             traders and increase their success rates as much as possible. For
-            that purpose we give you the No Name 1 Online trader, which enables
+            that purpose we give you the NovaTradin Online trader, which enables
             you to be 100% involved in the trading process and adjust according
             to the market conditions, all the while letting you plan your
             trading activities to your preference.Utilize the full scope of the
             latest technological developments in the field by trading from any
             internet connectible device. Investing in Forex, Commodities and CFD
-            has never been easier thanks to the No Name 1 Online Trader.No Name
+            has never been easier thanks to the NovaTradin Online Trader.No Name
             1 grants you a gateway to all your trading needs with the online and
             mobile trading applications.
           </p>

@@ -13,13 +13,13 @@ const About = () => {
           <div className="aboutus__content-section">
             <div className="aboutus__content-section-text">
               <p>
-                No name 1 was launched a few years back with a unique vision to
+                NovaTradin was launched a few years back with a unique vision to
                 provide unparalleled advanced trading conditions, advanced
                 education, and state-of-the-art trading tools in the Forex
                 industry. Due to the continuous focus on localizing our products
                 and services to suit each market, together with our successful
                 collaboration with talented and experienced teams from all over
-                the world. No name 1 was quickly established as the global
+                the world. NovaTradin was quickly established as the global
                 trademark it is today.
               </p>
               <p>
@@ -39,10 +39,10 @@ const About = () => {
             </div>
           </div>
           <p className="aboutus__content-info">
-            At No name 1 we are committed to making sure all our clients and
+            At NovaTradin we are committed to making sure all our clients and
             investors stay connected to the various opportunities that arise in
             the market on a daily basis and ease in connecting with one another.
-            With No name 1 has your financial stockbroker you are sure to get
+            With NovaTradin has your financial stockbroker you are sure to get
             all the professional backing and support you require to soar in
             Forex trading.
           </p>
@@ -76,7 +76,7 @@ const About = () => {
                   src="https://img.icons8.com/pastel-glyph/40/ff6e52/email.png"
                   alt="logo"
                 />
-                <p>support@no name 1.com </p>
+                <p>support@NovaTradin.com </p>
               </div>
               <div className="contact__info-single">
                 <img

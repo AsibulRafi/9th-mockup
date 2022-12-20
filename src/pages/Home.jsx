@@ -89,14 +89,15 @@ const Home = () => {
         <div className="trade__info-wrapper">
           <h2 className="ti__heading">A TRADE ORIENTED BROKER</h2>
           <p className="ti__text">
-            No Name 1 is a top online Forex broker with many years of experience
-            in the market. No name 1 being a client-oriented company, places the
-            needs of every one of our customers as its own priority. We are
-            committed to providing all our investors a wide range of options
-            when trading to help them become better at trading and also make
-            profits.At No name 1 we ensure all our clients are up to date with
-            the market trends and also provide them with latest trading
-            technology and Forex tools by investing continuously in innovations.
+            NovaTradin is a top online Forex broker with many years of
+            experience in the market. NovaTradin being a client-oriented
+            company, places the needs of every one of our customers as its own
+            priority. We are committed to providing all our investors a wide
+            range of options when trading to help them become better at trading
+            and also make profits.At NovaTradin we ensure all our clients are up
+            to date with the market trends and also provide them with latest
+            trading technology and Forex tools by investing continuously in
+            innovations.
           </p>
           <div className="ti__info">
             <div className="ti__info-text">
@@ -117,7 +118,7 @@ const Home = () => {
                 challenge you might face in the course of trading.
               </p>
               <p>
-                At No name 1 we place high importance and emphasis on customer
+                At NovaTradin we place high importance and emphasis on customer
                 satisfaction, and we are dedicated to being more than just an
                 online broker to our clients. Make your trading experience worth
                 it, choose a right broker, and choose No name
@@ -135,7 +136,7 @@ const Home = () => {
           <div className="trade__heading">
             <h2>Trade with us</h2>
             <p>
-              No name 1 presents its clients with the optimal platform for
+              NovaTradin presents its clients with the optimal platform for
               investing in Forex, Futures and Commodities. We are committed to
               providing each and every client with the best experience possible
               and always aim to provide the necessary means and resources for
@@ -276,7 +277,7 @@ const Home = () => {
       <section className="steps container">
         <div className="steps__wrapper">
           <h2 className="steps__heading">
-            STEPS FOR OPENING A NO NAME 1 TRADING PROFILE
+            STEPS FOR OPENING A NovaTradin TRADING PROFILE
           </h2>
           <hr />
           <div className="steps__contents">
@@ -330,9 +331,9 @@ const Home = () => {
             <h2>Why should you choose to trade with us?</h2>
             <p>
               Your goals are unique, so your investment guidance should be too.
-              This is why at No Name 1 we take the time to listen and understand
-              what matters most to you before helping you develop and manage
-              your investment strategy.
+              This is why at NovaTradin we take the time to listen and
+              understand what matters most to you before helping you develop and
+              manage your investment strategy.
             </p>
           </div>
           <div className="about__content">
@@ -343,16 +344,17 @@ const Home = () => {
                 mobile, and downloadable platforms give you everything you need
                 to research stocks, place trades, and manage your portfolio with
                 live-streaming access, real-time quotes and specialists with
-                years of floor trading experience. As an No name 1 broker, we do
-                not have any conflict of interest regarding our clients’ trades,
-                as we only receive a commission on the volume of the trades and
-                do not benefit in any additional way by any client losses.
+                years of floor trading experience. As an NovaTradin broker, we
+                do not have any conflict of interest regarding our clients’
+                trades, as we only receive a commission on the volume of the
+                trades and do not benefit in any additional way by any client
+                losses.
               </p>
             </div>
             <div className="about__card">
               <h2>TRANSPARENT AND TRUSTWORTHY</h2>
               <p>
-                For a few years now, No Name 1 has been proud to help our
+                For a few years now, NovaTradin has been proud to help our
                 clients pursue their financial goals while giving them more time
                 to focus on what really matters in life. Everything we provide,
                 from guidance to powerful trading tools, to retirement resources
@@ -373,7 +375,7 @@ const Home = () => {
                 access to our award-winning investing and trading experience.
                 Plus, we keep our pricing simple with no share limits or hidden
                 fees, no trade requirements to access advanced features, and no
-                deposit minimums. At No name 1 all transactions are simple and
+                deposit minimums. At NovaTradin all transactions are simple and
                 direct.
               </p>
             </div>
